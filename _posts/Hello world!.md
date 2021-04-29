@@ -1,7 +1,7 @@
 ---
 title: Hello world!
 tags: 新建,模板,小书匠
-category: /小书匠/日记/2021-04
+category: writing
 renderNumberedHeading: true
 grammar_cjkRuby: true
 password: 11000
